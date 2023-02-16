@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mit afternoon class/forms.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -67,6 +70,7 @@
       <workItem from="1676029453470" duration="2842000" />
       <workItem from="1676285996580" duration="8490000" />
       <workItem from="1676372907629" duration="5377000" />
+      <workItem from="1676460965724" duration="4837000" />
     </task>
     <servers />
   </component>
